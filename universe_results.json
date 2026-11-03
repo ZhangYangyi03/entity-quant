@@ -1,0 +1,66 @@
+{
+ "_bench": {
+  "label": "等权全创业板+科创板 1897 只",
+  "days": 4084,
+  "start": "2010-01-04",
+  "end": "2026-11-02",
+  "total_return_pct": 2736.18,
+  "cagr_pct": 22.72,
+  "ann_vol_pct": 40.04,
+  "sharpe": 0.713,
+  "sortino": 0.671,
+  "max_drawdown_pct": -63.9,
+  "recovery_days": 198,
+  "calmar": 0.356,
+  "skew": -0.32,
+  "excess_kurtosis": 4.455,
+  "t_stat_newey_west": 2.647,
+  "probabilistic_sharpe": 0.9979,
+  "hit_rate_pct": 54.6,
+  "best_day_pct": 19.51,
+  "worst_day_pct": -16.79,
+  "final_value": 28421196.88,
+  "yearly": {
+   "2010": 12.73,
+   "2011": -45.4,
+   "2012": 10.56,
+   "2013": 118.97,
+   "2014": 90.68,
+   "2015": 353.31,
+   "2016": 22.15,
+   "2017": 0.66,
+   "2018": -25.13,
+   "2019": 46.47,
+   "2020": 25.88,
+   "2021": 18.85,
+   "2022": -22.43,
+   "2023": 8.92,
+   "2024": 1.02,
+   "2025": 49.49,
+   "2026": -13.48
+  }
+ },
+ "lowvol60/k50": {
+  "cagr_pct": 7.88,
+  "sharpe": 0.42,
+  "max_drawdown_pct": -65.68,
+  "ann_vol_pct": 25.7,
+  "total_return_pct": 245.2,
+  "final_value": 3451650,
+  "fills": 11575,
+  "fees": 242869,
+  "rebalances": 191,
+  "blocked": {
+   "no_bar": 491,
+   "capacity": 4632,
+   "cash": 341
+  },
+  "ab": {
+   "alpha_annual_pct": -4.91,
+   "alpha_t": -1.5,
+   "beta": 0.554,
+   "r_squared": 0.7452
+  },
+  "_recovered": "本进程被沙箱回收，数字抄自 univ_a3.log"
+ }
+}

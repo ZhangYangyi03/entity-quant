@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+store/
+stockdata/
+shards/
+*.log
+_pytest*.log
+market.db
+daily.log
